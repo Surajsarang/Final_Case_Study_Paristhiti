@@ -1,0 +1,80 @@
+.container {
+    padding: 30px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both
+}
+
+
+.large-font {
+    font-size: 20px
+}
+
+.xlarge-font {
+    font-size: 30px
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color:#800000;
+}
+
+img {
+    display: block;
+}
+
+
+@media screen and (max-width: 1000px) {
+
+    .column-66,
+    .column-33 {
+        width: 100%;
+        text-align: center;
+    }
+
+    img {
+        margin: auto;
+    }
+}
+
+.move {
+    position: absolute;
+    top: 30px;
+    left: 260px;
+}
+
+.top-head {
+    text-align: left;
+    color: white;
+
+}
+.para{
+    text-align: justify;
+    font-size: 16px;
+    
+}
+.para-work{
+    color: white;
+    text-align: justify;
+    border-bottom: 3px solid white;
+
+}
+.lower-div{
+    border: 5px solid white;
+    background-color: white;
+    
+    
+}
+.happy{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}

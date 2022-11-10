@@ -1,0 +1,64 @@
+.box{
+
+    position: absolute;
+    top: 30px;
+    left: 260px;
+    width: 700px;
+    height: 1200px;
+    border: 2px solid white;
+    background-color: white;
+    text-align: left;
+    text-align: justify;    
+}
+
+.miniBox{
+    position: relative;
+    left: 70px;
+    top: 30px;
+    width: 550px;
+
+}
+
+.box2{
+    position: absolute;
+    top: 1240px;
+    left:260px;
+    color: white;
+    width: 700px;
+    text-align: justify;
+    padding: 5px;
+    
+    
+    
+}
+.box3{
+    position: absolute;
+    top: 1450px;
+    left:260px;
+    color: white;
+    width: 700px;
+    text-align: justify;
+    padding: 5px;
+    border-bottom: 2px solid white;
+    
+}
+.box4{
+    position: absolute;
+    top: 1780px;
+    left:260px;
+    color: black;
+    width: 710px;
+    height: 590px;
+    text-align: justify;
+    background-color: white;
+    
+}
+.partner-img{
+    float: left;
+    width: 160px;
+    margin-left:  55px;
+    margin-bottom: 30px;
+}
+.textsize{
+    font-size: 10px;
+}

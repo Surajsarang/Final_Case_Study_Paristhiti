@@ -1,0 +1,26 @@
+/* .container-item {
+  padding: 25px;
+  margin: 20px;
+} */
+.container-item:hover {
+    background-color: black;
+    color: white;
+  }
+  .container-item:hover h4 {
+    color:white;
+  }
+  h4 {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  table img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50%;
+  }
+  .bodycontent{
+    margin-left: 110px;
+  }
+  
+  
