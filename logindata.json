@@ -1,0 +1,38 @@
+{
+    "data": [
+      {
+        "fname": "Sravya",
+        "lname": "J",
+        "pno": 9381619695,
+        "email": "sravya@gmail.com",
+        "pswd": "sravy12"
+      },
+      {
+        "fname": "Charmista",
+        "lname": "M",
+        "pno": 9763457643,
+        "email": "charmista@gmail.com",
+        "pswd": "charm12"
+      },
+      {
+        "fname": "Saba",
+        "lname": "LNU",
+        "pno": 8974357654,
+        "email": "saba@gmail.com",
+        "pswd": "saba12"      },
+      {
+        "fname": "Suraj",
+        "lname": "Sarang",
+        "pno": 9334634567,
+        "email": "suraj@gmail.com",
+        "pswd": "suraj12"
+      },
+      {
+        "fname": "Roop",
+        "lname": "N",
+        "pno": 9435675431,
+        "email": "roop@gmail.com",
+        "pswd": "roop12"
+      }
+    ]
+  }
